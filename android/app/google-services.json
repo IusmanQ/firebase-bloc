@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916860492430",
+    "project_id": "blocfirebase-1286f",
+    "storage_bucket": "blocfirebase-1286f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916860492430:android:18d76060031f10072107df",
+        "android_client_info": {
+          "package_name": "com.example.firebase_bloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916860492430-rbqfhibk5qrk249kjr14nacbovkcd876.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP35y1Gp_daVyzg0C4ktgyExVCKS5bF8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916860492430-rbqfhibk5qrk249kjr14nacbovkcd876.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
